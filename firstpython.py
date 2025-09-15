@@ -1,3 +1,2 @@
-#Display the output 
-
+# Print the output 
 Print("New Python File") 
